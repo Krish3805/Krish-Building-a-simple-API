@@ -1,0 +1,9 @@
+# Build output folders
+**/bin/
+**/obj/
+
+# VS Code workspace settings
+.vscode/
+
+UserManagementAPI/api.pid
+UserManagementAPI/*.log
