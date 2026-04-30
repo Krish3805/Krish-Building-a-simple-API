@@ -6,7 +6,7 @@ This checklist maps the project to the required evaluation questions.
 
 1. Did they create a GitHub repository for their project?
 - Yes
-- Evidence: Git remote is configured to `https://github.com/kv3805/Krish-Building-a-simple-API.git`.
+- Evidence: Git remote is configured to `https://github.com/Krish3805/Krish-Building-a-simple-API.git`.
 
 2. Does their code include CRUD endpoints for managing users like GET, POST, PUT, and DELETE?
 - Yes
